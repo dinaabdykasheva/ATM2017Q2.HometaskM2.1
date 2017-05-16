@@ -1,2 +1,8 @@
 txt
 text
+<<<<<<< HEAD
+=======
+1
+2
+cherry-pick1
+>>>>>>> f560efd... cherry-pick commit
